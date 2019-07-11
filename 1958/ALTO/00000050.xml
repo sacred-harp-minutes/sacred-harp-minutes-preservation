@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000050.tif</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="Processing">
+      <ocrProcessingStep>
+        <processingStepSettings>Image Resolution:600</processingStepSettings>
+        <processingSoftware>
+          <softwareCreator>I2S</softwareCreator>
+          <softwareName>Limb</softwareName>
+          <softwareVersion>1.0</softwareVersion>
+          <applicationDescription>Abbyy10 OCR Engine</applicationDescription>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="StyleId-0" FONTSIZE="8" FONTFAMILY="Times New Roman" />
+    <TextStyle ID="StyleId-1" FONTSIZE="10" FONTFAMILY="Times New Roman" />
+    <TextStyle ID="StyleId-2" FONTSIZE="12" FONTFAMILY="Times New Roman" />
+  </Styles>
+  <Layout>
+    <Page ID="P49" PHYSICAL_IMG_NR="49" HEIGHT="4800" WIDTH="3000" ACCURACY="0.8971718" QUALITY_DETAIL="394 words, 1877 chars, 1743 with recognition greater than 50% (92.86%)">
+      <TopMargin ID="P49_TM00001" HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="165" />
+      <LeftMargin ID="P49_LM00001" HPOS="0" VPOS="165" WIDTH="238" HEIGHT="4465" />
+      <RightMargin ID="P49_RM00001" HPOS="2766" VPOS="165" WIDTH="234" HEIGHT="4465" />
+      <BottomMargin ID="P49_BM00001" HPOS="0" VPOS="4630" WIDTH="3000" HEIGHT="169" />
+      <PrintSpace ID="P49_PS00001" HPOS="238" VPOS="165" WIDTH="2527" HEIGHT="4465">
+        <TextBlock ID="P49_TB00001" HPOS="238" VPOS="165" WIDTH="2500" HEIGHT="1854">
+          <TextLine ID="P49_TL00001" HPOS="252" VPOS="177" WIDTH="2241" HEIGHT="82">
+            <String ID="P49_S00001" HPOS="252" VPOS="205" WIDTH="61" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="48" WC="0.865" CC="02" />
+            <SP ID="P49_SP00001" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00002" HPOS="492" VPOS="204" WIDTH="393" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="ALABAMA," WC="0.86875" CC="06000004" />
+            <SP ID="P49_SP00002" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00003" HPOS="934" VPOS="205" WIDTH="355" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="GEORGIA," WC="0.8675" CC="00070002" />
+            <SP ID="P49_SP00003" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00004" HPOS="1338" VPOS="199" WIDTH="457" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="MISSISSIPPI," WC="0.9033333" CC="010000000233" />
+            <SP ID="P49_SP00004" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00005" HPOS="1845" VPOS="193" WIDTH="162" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="AND" WC="0.99333334" CC="000" />
+            <SP ID="P49_SP00005" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00006" HPOS="2058" VPOS="177" WIDTH="435" HEIGHT="82" STYLEREFS="StyleId-0" CONTENT="TENNESSEE" WC="0.9677778" CC="000000002" />
+          </TextLine>
+          <TextLine ID="P49_TL00002" HPOS="384" VPOS="351" WIDTH="2340" HEIGHT="84">
+            <String ID="P49_S00007" HPOS="384" VPOS="378" WIDTH="204" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.805" CC="253000" />
+            <SP ID="P49_SP00006" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00008" HPOS="631" VPOS="378" WIDTH="76" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="by" WC="0.665" CC="33" />
+            <SP ID="P49_SP00007" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00009" HPOS="751" VPOS="378" WIDTH="106" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Joe" WC="1" CC="000" />
+            <SP ID="P49_SP00008" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00010" HPOS="901" VPOS="378" WIDTH="198" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Myers" WC="0.852" CC="01050" />
+            <SP ID="P49_SP00009" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00011" HPOS="1144" VPOS="378" WIDTH="229" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="singing" WC="0.9514286" CC="0020000" />
+            <SP ID="P49_SP00010" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00012" HPOS="1416" VPOS="376" WIDTH="117" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="411;" WC="0.84" CC="0006" />
+            <SP ID="P49_SP00011" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00013" HPOS="1579" VPOS="375" WIDTH="235" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Harvey" WC="0.745" CC="447000" />
+            <SP ID="P49_SP00012" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00014" HPOS="1860" VPOS="366" WIDTH="220" HEIGHT="69" STYLEREFS="StyleId-0" CONTENT="Hocutt" WC="0.873333335" CC="300002" />
+            <SP ID="P49_SP00013" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00015" HPOS="2124" VPOS="361" WIDTH="114" HEIGHT="73" STYLEREFS="StyleId-0" CONTENT="380." WC="0.97" CC="0010" />
+            <SP ID="P49_SP00014" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00016" HPOS="2284" VPOS="357" WIDTH="117" HEIGHT="78" STYLEREFS="StyleId-0" CONTENT="439;" WC="0.6125" CC="8006" />
+            <SP ID="P49_SP00015" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00017" HPOS="2451" VPOS="351" WIDTH="273" HEIGHT="84" STYLEREFS="StyleId-0" CONTENT="Ethelene" WC="0.77625" CC="40600007" />
+          </TextLine>
+          <TextLine ID="P49_TL00003" HPOS="250" VPOS="430" WIDTH="2467" HEIGHT="81">
+            <String ID="P49_S00018" HPOS="250" VPOS="453" WIDTH="279" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Woodley" WC="0.9557143" CC="0000200" />
+            <SP ID="P49_SP00016" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00019" HPOS="567" VPOS="454" WIDTH="111" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="382," WC="0.8975" CC="4000" />
+            <SP ID="P49_SP00017" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00020" HPOS="720" VPOS="454" WIDTH="115" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="454;" WC="0.4625" CC="9083" />
+            <SP ID="P49_SP00018" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00021" HPOS="879" VPOS="453" WIDTH="205" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Bobby" WC="0.692" CC="40560" />
+            <SP ID="P49_SP00019" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00022" HPOS="1123" VPOS="451" WIDTH="283" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Aldridge" WC="0.99" CC="00000000" />
+            <SP ID="P49_SP00020" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00023" HPOS="1446" VPOS="451" WIDTH="111" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="314," WC="0.8925" CC="0004" />
+            <SP ID="P49_SP00021" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00024" HPOS="1599" VPOS="450" WIDTH="114" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="222;" WC="0.9225" CC="0003" />
+            <SP ID="P49_SP00022" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00025" HPOS="1756" VPOS="448" WIDTH="183" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Oscar" WC="0.834" CC="10015" />
+            <SP ID="P49_SP00023" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00026" HPOS="1980" VPOS="441" WIDTH="255" HEIGHT="70" STYLEREFS="StyleId-0" CONTENT="Putman" WC="0.73" CC="506400" />
+            <SP ID="P49_SP00024" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00027" HPOS="2280" VPOS="433" WIDTH="111" HEIGHT="78" STYLEREFS="StyleId-0" CONTENT="197," WC="0.8025" CC="0061" />
+            <SP ID="P49_SP00025" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00028" HPOS="2433" VPOS="430" WIDTH="115" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="272;" WC="0.85" CC="0600" />
+            <SP ID="P49_SP00026" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00029" HPOS="2592" VPOS="430" WIDTH="126" HEIGHT="81" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.83" CC="0600" />
+          </TextLine>
+          <TextLine ID="P49_TL00004" HPOS="253" VPOS="507" WIDTH="2466" HEIGHT="76">
+            <String ID="P49_S00030" HPOS="253" VPOS="529" WIDTH="66" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="G." WC="0.7" CC="60" />
+            <SP ID="P49_SP00027" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00031" HPOS="358" VPOS="528" WIDTH="54" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="S." WC="0.795" CC="04" />
+            <SP ID="P49_SP00028" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00032" HPOS="448" VPOS="529" WIDTH="147" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Doss" WC="1" CC="0000" />
+            <SP ID="P49_SP00029" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00033" HPOS="633" VPOS="528" WIDTH="147" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="189b," WC="0.914" CC="03001" />
+            <SP ID="P49_SP00030" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00034" HPOS="817" VPOS="528" WIDTH="151" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="306b," WC="0.974" CC="01000" />
+            <SP ID="P49_SP00031" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00035" HPOS="1005" VPOS="528" WIDTH="144" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Tom" WC="1" CC="000" />
+            <SP ID="P49_SP00032" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00036" HPOS="1183" VPOS="528" WIDTH="198" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Milelr" WC="0.8833333" CC="040200" />
+            <SP ID="P49_SP00033" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00037" HPOS="1416" VPOS="528" WIDTH="111" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="374," WC="0.7725" CC="0090" />
+            <SP ID="P49_SP00034" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00038" HPOS="1563" VPOS="525" WIDTH="114" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="375;" WC="1" CC="0000" />
+            <SP ID="P49_SP00035" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00039" HPOS="1716" VPOS="523" WIDTH="243" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Buckey" WC="0.938333333" CC="300000" />
+            <SP ID="P49_SP00036" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00040" HPOS="1995" VPOS="519" WIDTH="201" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="Aaron" WC="0.848" CC="03400" />
+            <SP ID="P49_SP00037" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00041" HPOS="2236" VPOS="511" WIDTH="109" HEIGHT="72" STYLEREFS="StyleId-0" CONTENT="137," WC="0.9125" CC="0030" />
+            <SP ID="P49_SP00038" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00042" HPOS="2388" VPOS="508" WIDTH="114" HEIGHT="75" STYLEREFS="StyleId-0" CONTENT="152;" WC="0.7125" CC="5600" />
+            <SP ID="P49_SP00039" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00043" HPOS="2541" VPOS="507" WIDTH="178" HEIGHT="76" STYLEREFS="StyleId-0" CONTENT="Annie" WC="1" CC="00000" />
+          </TextLine>
+          <TextLine ID="P49_TL00005" HPOS="255" VPOS="586" WIDTH="2407" HEIGHT="73">
+            <String ID="P49_S00044" HPOS="255" VPOS="604" WIDTH="171" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Creel" WC="0.94" CC="03000" />
+            <SP ID="P49_SP00040" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00045" HPOS="460" VPOS="606" WIDTH="106" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="140," WC="0.9375" CC="0002" />
+            <SP ID="P49_SP00041" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00046" HPOS="600" VPOS="604" WIDTH="123" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="76b;" WC="0.84" CC="0006" />
+            <SP ID="P49_SP00042" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00047" HPOS="756" VPOS="603" WIDTH="156" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="John" WC="0.855" CC="0050" />
+            <SP ID="P49_SP00043" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00048" HPOS="942" VPOS="604" WIDTH="199" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Moore" WC="0.892" CC="00050" />
+            <SP ID="P49_SP00044" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00049" HPOS="1176" VPOS="603" WIDTH="100" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="56t," WC="1" CC="0000" />
+            <SP ID="P49_SP00045" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00050" HPOS="1309" VPOS="603" WIDTH="114" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="298;" WC="0.835" CC="0006" />
+            <SP ID="P49_SP00046" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00051" HPOS="1461" VPOS="600" WIDTH="160" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Cecil" WC="0.932" CC="00030" />
+            <SP ID="P49_SP00047" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00052" HPOS="1651" VPOS="600" WIDTH="220" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Parker" WC="0.706666648" CC="426004" />
+            <SP ID="P49_SP00048" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00053" HPOS="1903" VPOS="597" WIDTH="112" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="328," WC="0.915" CC="0002" />
+            <SP ID="P49_SP00049" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00054" HPOS="2050" VPOS="594" WIDTH="117" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="441;" WC="0.86" CC="0005" />
+            <SP ID="P49_SP00050" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00055" HPOS="2205" VPOS="586" WIDTH="321" HEIGHT="73" STYLEREFS="StyleId-0" CONTENT="Chairman" WC="0.8225" CC="05014210" />
+            <SP ID="P49_SP00051" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00056" HPOS="2557" VPOS="586" WIDTH="105" HEIGHT="73" STYLEREFS="StyleId-0" CONTENT="349." WC="0.9325" CC="0002" />
+          </TextLine>
+          <TextLine ID="P49_TL00006" HPOS="385" VPOS="696" WIDTH="648" HEIGHT="49">
+            <String ID="P49_S00057" HPOS="385" VPOS="697" WIDTH="124" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="One" WC="1" CC="000" />
+            <SP ID="P49_SP00052" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00058" HPOS="541" VPOS="696" WIDTH="148" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="hour" WC="0.8875" CC="0013" />
+            <SP ID="P49_SP00053" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00059" HPOS="720" VPOS="696" WIDTH="93" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="for" WC="0.6933333" CC="602" />
+            <SP ID="P49_SP00054" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00060" HPOS="841" VPOS="696" WIDTH="192" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="lunch." WC="0.9766667" CC="010000" />
+          </TextLine>
+          <TextLine ID="P49_TL00007" HPOS="385" VPOS="771" WIDTH="2338" HEIGHT="73">
+            <String ID="P49_S00061" HPOS="385" VPOS="789" WIDTH="204" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.88166666" CC="016000" />
+            <SP ID="P49_SP00055" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00062" HPOS="616" VPOS="789" WIDTH="60" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="to" WC="0.865" CC="20" />
+            <SP ID="P49_SP00056" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00063" HPOS="706" VPOS="787" WIDTH="174" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="order" WC="0.858" CC="03003" />
+            <SP ID="P49_SP00057" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00064" HPOS="907" VPOS="787" WIDTH="79" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="by" WC="0.68" CC="60" />
+            <SP ID="P49_SP00058" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00065" HPOS="1015" VPOS="787" WIDTH="219" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Dewey" WC="1" CC="00000" />
+            <SP ID="P49_SP00059" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00066" HPOS="1264" VPOS="786" WIDTH="301" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="McCullar" WC="0.93" CC="00010004" />
+            <SP ID="P49_SP00060" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00067" HPOS="1594" VPOS="783" WIDTH="229" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="singing" WC="0.998571455" CC="0000000" />
+            <SP ID="P49_SP00061" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00068" HPOS="1854" VPOS="783" WIDTH="112" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="336," WC="1" CC="0000" />
+            <SP ID="P49_SP00062" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00069" HPOS="1998" VPOS="780" WIDTH="117" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="434;" WC="0.9875" CC="0000" />
+            <SP ID="P49_SP00063" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00070" HPOS="2149" VPOS="774" WIDTH="247" HEIGHT="70" STYLEREFS="StyleId-0" CONTENT="Chester" WC="0.8757143" CC="0300004" />
+            <SP ID="P49_SP00064" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00071" HPOS="2427" VPOS="771" WIDTH="168" HEIGHT="73" STYLEREFS="StyleId-0" CONTENT="Creel" WC="0.89" CC="05000" />
+            <SP ID="P49_SP00065" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00072" HPOS="2620" VPOS="775" WIDTH="103" HEIGHT="69" STYLEREFS="StyleId-0" CONTENT="396," WC="0.97" CC="0010" />
+          </TextLine>
+          <TextLine ID="P49_TL00008" HPOS="262" VPOS="847" WIDTH="2463" HEIGHT="75">
+            <String ID="P49_S00073" HPOS="262" VPOS="865" WIDTH="112" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="181;" WC="0.865" CC="0103" />
+            <SP ID="P49_SP00066" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00074" HPOS="412" VPOS="864" WIDTH="115" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Nat" WC="0.96" CC="010" />
+            <SP ID="P49_SP00067" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00075" HPOS="561" VPOS="864" WIDTH="223" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Parker" WC="0.74333334" CC="504004" />
+            <SP ID="P49_SP00068" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00076" HPOS="817" VPOS="864" WIDTH="111" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="440," WC="1" CC="0000" />
+            <SP ID="P49_SP00069" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00077" HPOS="966" VPOS="864" WIDTH="115" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="416;" WC="1" CC="0000" />
+            <SP ID="P49_SP00070" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00078" HPOS="1122" VPOS="862" WIDTH="226" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="George" WC="0.99666667" CC="000000" />
+            <SP ID="P49_SP00071" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00079" HPOS="1384" VPOS="859" WIDTH="249" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Phillips" WC="0.83875" CC="50000070" />
+            <SP ID="P49_SP00072" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00080" HPOS="1668" VPOS="861" WIDTH="111" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="283," WC="0.8875" CC="0022" />
+            <SP ID="P49_SP00073" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00081" HPOS="1815" VPOS="859" WIDTH="117" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="403;" WC="0.9125" CC="0102" />
+            <SP ID="P49_SP00074" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00082" HPOS="1971" VPOS="852" WIDTH="256" HEIGHT="70" STYLEREFS="StyleId-0" CONTENT="Patricia" WC="0.915" CC="30020000" />
+            <SP ID="P49_SP00075" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00083" HPOS="2263" VPOS="847" WIDTH="208" HEIGHT="75" STYLEREFS="StyleId-0" CONTENT="Butler" WC="0.9483333" CC="020000" />
+            <SP ID="P49_SP00076" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00084" HPOS="2505" VPOS="850" WIDTH="108" HEIGHT="72" STYLEREFS="StyleId-0" CONTENT="361," WC="0.9775" CC="0000" />
+            <SP ID="P49_SP00077" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00085" HPOS="2649" VPOS="853" WIDTH="76" HEIGHT="69" STYLEREFS="StyleId-0" CONTENT="84;" WC="0.636666656" CC="307" />
+          </TextLine>
+          <TextLine ID="P49_TL00009" HPOS="261" VPOS="927" WIDTH="2466" HEIGHT="67">
+            <String ID="P49_S00086" HPOS="261" VPOS="940" WIDTH="232" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Martha" WC="0.933333337" CC="004000" />
+            <SP ID="P49_SP00078" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00087" HPOS="528" VPOS="939" WIDTH="315" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Frederick" WC="0.8744444" CC="010003500" />
+            <SP ID="P49_SP00079" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00088" HPOS="877" VPOS="939" WIDTH="111" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="211," WC="0.9975" CC="0000" />
+            <SP ID="P49_SP00080" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00089" HPOS="1023" VPOS="939" WIDTH="115" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="203;" WC="1" CC="0000" />
+            <SP ID="P49_SP00081" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00090" HPOS="1177" VPOS="939" WIDTH="93" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Ira" WC="0.956666648" CC="100" />
+            <SP ID="P49_SP00082" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00091" HPOS="1303" VPOS="937" WIDTH="198" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="James" WC="0.944" CC="02000" />
+            <SP ID="P49_SP00083" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00092" HPOS="1534" VPOS="936" WIDTH="112" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="460," WC="0.9125" CC="0003" />
+            <SP ID="P49_SP00084" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00093" HPOS="1681" VPOS="936" WIDTH="115" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="402;" WC="1" CC="0000" />
+            <SP ID="P49_SP00085" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00094" HPOS="1837" VPOS="934" WIDTH="160" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Odus" WC="1" CC="0000" />
+            <SP ID="P49_SP00086" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00095" HPOS="2031" VPOS="930" WIDTH="225" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="Parker" WC="0.841666639" CC="540000" />
+            <SP ID="P49_SP00087" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00096" HPOS="2290" VPOS="927" WIDTH="112" HEIGHT="67" STYLEREFS="StyleId-0" CONTENT="418," WC="0.9175" CC="0003" />
+            <SP ID="P49_SP00088" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00097" HPOS="2437" VPOS="927" WIDTH="115" HEIGHT="67" STYLEREFS="StyleId-0" CONTENT="459;" WC="1" CC="0000" />
+            <SP ID="P49_SP00089" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00098" HPOS="2590" VPOS="928" WIDTH="136" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="Con¬" WC="0.885" CC="0004" />
+          </TextLine>
+          <TextLine ID="P49_TL00010" HPOS="259" VPOS="1003" WIDTH="2467" HEIGHT="67">
+            <String ID="P49_S00099" HPOS="259" VPOS="1015" WIDTH="97" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="nie" WC="1" CC="000" />
+            <SP ID="P49_SP00090" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00100" HPOS="397" VPOS="1015" WIDTH="222" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Parker" WC="0.86833334" CC="003004" />
+            <SP ID="P49_SP00091" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00101" HPOS="658" VPOS="1015" WIDTH="111" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="388," WC="0.99" CC="0000" />
+            <SP ID="P49_SP00092" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00102" HPOS="811" VPOS="1015" WIDTH="114" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="334;" WC="0.95" CC="0001" />
+            <SP ID="P49_SP00093" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00103" HPOS="970" VPOS="1014" WIDTH="219" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Robert" WC="0.7966667" CC="804000" />
+            <SP ID="P49_SP00094" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00104" HPOS="1228" VPOS="1012" WIDTH="285" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Aldridge" WC="0.9575" CC="00030000" />
+            <SP ID="P49_SP00095" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00105" HPOS="1555" VPOS="1011" WIDTH="111" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="392," WC="0.97" CC="0000" />
+            <SP ID="P49_SP00096" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00106" HPOS="1710" VPOS="1011" WIDTH="117" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="316;" WC="0.975" CC="0001" />
+            <SP ID="P49_SP00097" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00107" HPOS="1872" VPOS="1009" WIDTH="109" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Mr." WC="0.88" CC="030" />
+            <SP ID="P49_SP00098" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00108" HPOS="2025" VPOS="1008" WIDTH="241" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Harvey" WC="0.848333359" CC="215000" />
+            <SP ID="P49_SP00099" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00109" HPOS="2308" VPOS="1003" WIDTH="111" HEIGHT="67" STYLEREFS="StyleId-0" CONTENT="299," WC="1" CC="0000" />
+            <SP ID="P49_SP00100" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00110" HPOS="2463" VPOS="1005" WIDTH="114" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="301;" WC="0.9725" CC="0000" />
+            <SP ID="P49_SP00101" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00111" HPOS="2620" VPOS="1006" WIDTH="106" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="Lee" WC="0.6666667" CC="0010" />
+          </TextLine>
+          <TextLine ID="P49_TL00011" HPOS="261" VPOS="1080" WIDTH="2347" HEIGHT="67">
+            <String ID="P49_S00112" HPOS="261" VPOS="1092" WIDTH="177" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Wells" WC="0.814" CC="30060" />
+            <SP ID="P49_SP00102" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00113" HPOS="468" VPOS="1092" WIDTH="111" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="355," WC="1" CC="0000" />
+            <SP ID="P49_SP00103" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00114" HPOS="609" VPOS="1092" WIDTH="117" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="404;" WC="1" CC="0000" />
+            <SP ID="P49_SP00104" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00115" HPOS="759" VPOS="1090" WIDTH="156" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="John" WC="0.895" CC="0040" />
+            <SP ID="P49_SP00105" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00116" HPOS="945" VPOS="1090" WIDTH="169" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Lynn" WC="1" CC="0000" />
+            <SP ID="P49_SP00106" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00117" HPOS="1144" VPOS="1089" WIDTH="115" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="406;" WC="0.8975" CC="0400" />
+            <SP ID="P49_SP00107" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00118" HPOS="1293" VPOS="1087" WIDTH="240" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Milalrd" WC="0.9128571" CC="0001210" />
+            <SP ID="P49_SP00108" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00119" HPOS="1563" VPOS="1086" WIDTH="369" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="McWhorter" WC="0.817777753" CC="009001005" />
+            <SP ID="P49_SP00109" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00120" HPOS="1962" VPOS="1084" WIDTH="111" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="204," WC="0.965" CC="0100" />
+            <SP ID="P49_SP00110" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00121" HPOS="2106" VPOS="1081" WIDTH="112" HEIGHT="66" STYLEREFS="StyleId-0" CONTENT="294," WC="0.9175" CC="0101" />
+            <SP ID="P49_SP00111" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00122" HPOS="2250" VPOS="1080" WIDTH="81" HEIGHT="67" STYLEREFS="StyleId-0" CONTENT="by" WC="0.635" CC="70" />
+            <SP ID="P49_SP00112" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00123" HPOS="2361" VPOS="1083" WIDTH="247" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="request." WC="0.95" CC="30000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00012" HPOS="394" VPOS="1180" WIDTH="531" HEIGHT="51">
+            <String ID="P49_S00124" HPOS="394" VPOS="1183" WIDTH="141" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Rest" WC="0.835" CC="6000" />
+            <SP ID="P49_SP00113" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00125" HPOS="565" VPOS="1183" WIDTH="60" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="10" WC="1" CC="00" />
+            <SP ID="P49_SP00114" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00126" HPOS="652" VPOS="1180" WIDTH="273" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="Minutes." WC="1" CC="00000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00013" HPOS="390" VPOS="1266" WIDTH="2328" HEIGHT="64">
+            <String ID="P49_S00127" HPOS="390" VPOS="1275" WIDTH="204" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.9116667" CC="311000" />
+            <SP ID="P49_SP00115" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00128" HPOS="628" VPOS="1276" WIDTH="58" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="to" WC="1" CC="00" />
+            <SP ID="P49_SP00116" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00129" HPOS="724" VPOS="1275" WIDTH="171" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="order" WC="0.98" CC="00000" />
+            <SP ID="P49_SP00117" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00130" HPOS="930" VPOS="1273" WIDTH="79" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="by" WC="1" CC="00" />
+            <SP ID="P49_SP00118" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00131" HPOS="1044" VPOS="1273" WIDTH="219" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Nelson" WC="0.951666653" CC="000002" />
+            <SP ID="P49_SP00119" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00132" HPOS="1297" VPOS="1272" WIDTH="205" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Butler" WC="0.87166667" CC="400003" />
+            <SP ID="P49_SP00120" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00133" HPOS="1539" VPOS="1269" WIDTH="232" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="singing" WC="0.8057143" CC="0309000" />
+            <SP ID="P49_SP00121" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00134" HPOS="1806" VPOS="1270" WIDTH="117" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="391;" WC="0.8725" CC="1003" />
+            <SP ID="P49_SP00122" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00135" HPOS="1960" VPOS="1269" WIDTH="123" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Foy" WC="0.93" CC="200" />
+            <SP ID="P49_SP00123" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00136" HPOS="2118" VPOS="1266" WIDTH="316" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="Frederick" WC="0.9222222" CC="000002400" />
+            <SP ID="P49_SP00124" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00137" HPOS="2467" VPOS="1266" WIDTH="109" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="453," WC="1" CC="0000" />
+            <SP ID="P49_SP00125" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00138" HPOS="2611" VPOS="1267" WIDTH="106" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="286;" WC="0.74" CC="0244" />
+          </TextLine>
+          <TextLine ID="P49_TL00014" HPOS="258" VPOS="1342" WIDTH="2460" HEIGHT="64">
+            <String ID="P49_S00139" HPOS="258" VPOS="1353" WIDTH="64" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="R." WC="0.895" CC="02" />
+            <SP ID="P49_SP00126" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00140" HPOS="352" VPOS="1351" WIDTH="69" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="A." WC="1" CC="00" />
+            <SP ID="P49_SP00127" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00141" HPOS="454" VPOS="1351" WIDTH="228" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Canant" WC="0.973333359" CC="000100" />
+            <SP ID="P49_SP00128" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00142" HPOS="711" VPOS="1351" WIDTH="111" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="291," WC="1" CC="0000" />
+            <SP ID="P49_SP00129" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00143" HPOS="853" VPOS="1351" WIDTH="115" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="412;" WC="1" CC="0000" />
+            <SP ID="P49_SP00130" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00144" HPOS="1003" VPOS="1350" WIDTH="139" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.94" CC="0200" />
+            <SP ID="P49_SP00131" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00145" HPOS="1173" VPOS="1348" WIDTH="220" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Nelson" WC="0.925" CC="400000" />
+            <SP ID="P49_SP00132" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00146" HPOS="1423" VPOS="1347" WIDTH="205" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Butler" WC="1" CC="000000" />
+            <SP ID="P49_SP00133" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00147" HPOS="1663" VPOS="1347" WIDTH="106" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="142," WC="0.99" CC="0000" />
+            <SP ID="P49_SP00134" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00148" HPOS="1803" VPOS="1347" WIDTH="117" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="269;" WC="0.9625" CC="0100" />
+            <SP ID="P49_SP00135" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00149" HPOS="1956" VPOS="1344" WIDTH="235" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Charlie" WC="1" CC="0000000" />
+            <SP ID="P49_SP00136" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00150" HPOS="2226" VPOS="1344" WIDTH="171" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Creel" WC="1" CC="00000" />
+            <SP ID="P49_SP00137" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00151" HPOS="2428" VPOS="1342" WIDTH="115" HEIGHT="64" STYLEREFS="StyleId-0" CONTENT="95b," WC="1" CC="0000" />
+            <SP ID="P49_SP00138" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00152" HPOS="2574" VPOS="1344" WIDTH="144" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="435b;" WC="0.764" CC="01090" />
+          </TextLine>
+          <TextLine ID="P49_TL00015" HPOS="262" VPOS="1420" WIDTH="2461" HEIGHT="63">
+            <String ID="P49_S00153" HPOS="262" VPOS="1429" WIDTH="64" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="G." WC="0.71" CC="23" />
+            <SP ID="P49_SP00139" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00154" HPOS="366" VPOS="1428" WIDTH="54" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="S." WC="1" CC="00" />
+            <SP ID="P49_SP00140" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00155" HPOS="454" VPOS="1428" WIDTH="148" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Doss" WC="1" CC="0000" />
+            <SP ID="P49_SP00141" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00156" HPOS="636" VPOS="1428" WIDTH="111" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="315," WC="1" CC="0000" />
+            <SP ID="P49_SP00142" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00157" HPOS="783" VPOS="1428" WIDTH="114" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="218;" WC="1" CC="0000" />
+            <SP ID="P49_SP00143" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00158" HPOS="936" VPOS="1425" WIDTH="156" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Elsie" WC="0.804" CC="40050" />
+            <SP ID="P49_SP00144" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00159" HPOS="1126" VPOS="1423" WIDTH="301" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="McCullar" WC="0.83875" CC="00003133" />
+            <SP ID="P49_SP00145" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00160" HPOS="1464" VPOS="1425" WIDTH="111" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="371," WC="0.9175" CC="0300" />
+            <SP ID="P49_SP00146" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00161" HPOS="1614" VPOS="1422" WIDTH="121" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="68b;" WC="1" CC="0000" />
+            <SP ID="P49_SP00147" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00162" HPOS="1774" VPOS="1422" WIDTH="199" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Hattie" WC="1" CC="000000" />
+            <SP ID="P49_SP00148" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00163" HPOS="2010" VPOS="1422" WIDTH="249" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Roberts" WC="0.9085714" CC="6000000" />
+            <SP ID="P49_SP00149" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00164" HPOS="2295" VPOS="1420" WIDTH="103" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="45t," WC="1" CC="0000" />
+            <SP ID="P49_SP00150" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00165" HPOS="2437" VPOS="1422" WIDTH="81" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="58;" WC="0.8566667" CC="004" />
+            <SP ID="P49_SP00151" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00166" HPOS="2559" VPOS="1420" WIDTH="165" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Oscar" WC="0.912" CC="00004" />
+          </TextLine>
+          <TextLine ID="P49_TL00016" HPOS="264" VPOS="1497" WIDTH="2460" HEIGHT="63">
+            <String ID="P49_S00167" HPOS="264" VPOS="1504" WIDTH="145" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Cain" WC="0.8825" CC="0004" />
+            <SP ID="P49_SP00152" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00168" HPOS="441" VPOS="1504" WIDTH="108" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="159," WC="1" CC="0000" />
+            <SP ID="P49_SP00153" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00169" HPOS="577" VPOS="1504" WIDTH="118" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="456;" WC="0.885" CC="0004" />
+            <SP ID="P49_SP00154" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00170" HPOS="727" VPOS="1501" WIDTH="316" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Chairman" WC="0.8775" CC="03410000" />
+            <SP ID="P49_SP00155" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00171" HPOS="1071" VPOS="1503" WIDTH="111" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="235," WC="1" CC="0000" />
+            <SP ID="P49_SP00156" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00172" HPOS="1212" VPOS="1501" WIDTH="78" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="by" WC="0.665" CC="60" />
+            <SP ID="P49_SP00157" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00173" HPOS="1318" VPOS="1500" WIDTH="237" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="request" WC="0.85" CC="5021100" />
+            <SP ID="P49_SP00158" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00174" HPOS="1587" VPOS="1500" WIDTH="108" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="153," WC="0.9175" CC="0300" />
+            <SP ID="P49_SP00159" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00175" HPOS="1725" VPOS="1500" WIDTH="111" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="209." WC="0.9" CC="0210" />
+            <SP ID="P49_SP00160" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00176" HPOS="1899" VPOS="1497" WIDTH="322" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="Dismissed" WC="1" CC="000000000" />
+            <SP ID="P49_SP00161" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00177" HPOS="2250" VPOS="1497" WIDTH="144" HEIGHT="63" STYLEREFS="StyleId-0" CONTENT="with" WC="1" CC="0000" />
+            <SP ID="P49_SP00162" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00178" HPOS="2421" VPOS="1510" WIDTH="208" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="prayer" WC="0.863333344" CC="202002" />
+            <SP ID="P49_SP00163" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00179" HPOS="2655" VPOS="1498" WIDTH="69" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="by" WC="0.5" CC="010" />
+          </TextLine>
+          <TextLine ID="P49_TL00017" HPOS="264" VPOS="1579" WIDTH="619" HEIGHT="51">
+            <String ID="P49_S00180" HPOS="264" VPOS="1582" WIDTH="139" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Rev." WC="1" CC="0000" />
+            <SP ID="P49_SP00164" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00181" HPOS="438" VPOS="1579" WIDTH="199" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="Elbert" WC="1" CC="000000" />
+            <SP ID="P49_SP00165" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00182" HPOS="669" VPOS="1579" WIDTH="214" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="Aaron." WC="0.918333352" CC="004000" />
+          </TextLine>
+          <TextLine ID="P49_TL00018" HPOS="1159" VPOS="1668" WIDTH="1051" HEIGHT="57">
+            <String ID="P49_S00183" HPOS="1159" VPOS="1669" WIDTH="294" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="RUFFUS" WC="0.961666644" CC="002000" />
+            <SP ID="P49_SP00166" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00184" HPOS="1492" VPOS="1669" WIDTH="355" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="TIDWELL," WC="0.895" CC="00002131" />
+            <SP ID="P49_SP00167" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00185" HPOS="1891" VPOS="1668" WIDTH="319" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Chairman" WC="0.91375" CC="10031000" />
+          </TextLine>
+          <TextLine ID="P49_TL00019" HPOS="1153" VPOS="1761" WIDTH="1005" HEIGHT="57">
+            <String ID="P49_S00186" HPOS="1153" VPOS="1762" WIDTH="249" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="OSCAR" WC="0.91" CC="10300" />
+            <SP ID="P49_SP00168" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00187" HPOS="1435" VPOS="1762" WIDTH="199" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="CAIN," WC="0.922" CC="10002" />
+            <SP ID="P49_SP00169" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00188" HPOS="1665" VPOS="1761" WIDTH="142" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Vice" WC="1" CC="0000" />
+            <SP ID="P49_SP00170" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00189" HPOS="1840" VPOS="1761" WIDTH="318" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Chairman" WC="0.905" CC="00300030" />
+          </TextLine>
+          <TextLine ID="P49_TL00020" HPOS="1153" VPOS="1855" WIDTH="1024" HEIGHT="57">
+            <String ID="P49_S00190" HPOS="1153" VPOS="1858" WIDTH="39" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="I." WC="1" CC="00" />
+            <SP ID="P49_SP00171" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00191" HPOS="1228" VPOS="1858" WIDTH="78" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="M." WC="1" CC="00" />
+            <SP ID="P49_SP00172" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00192" HPOS="1341" VPOS="1855" WIDTH="475" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="HEATHERLY," WC="0.769" CC="4100410523" />
+            <SP ID="P49_SP00173" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00193" HPOS="1854" VPOS="1855" WIDTH="324" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Secretary," WC="0.838" CC="0004004303" />
+          </TextLine>
+          <TextLine ID="P49_TL00021" HPOS="1164" VPOS="1948" WIDTH="642" HEIGHT="58">
+            <String ID="P49_S00194" HPOS="1164" VPOS="1951" WIDTH="88" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="Rt." WC="1" CC="000" />
+            <SP ID="P49_SP00174" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00195" HPOS="1287" VPOS="1951" WIDTH="46" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="2," WC="0.925" CC="01" />
+            <SP ID="P49_SP00175" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00196" HPOS="1369" VPOS="1948" WIDTH="276" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Quinton," WC="0.84" CC="03400004" />
+            <SP ID="P49_SP00176" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00197" HPOS="1678" VPOS="1948" WIDTH="127" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Ala." WC="0.96" CC="0100" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P49_TB00002" HPOS="1456" VPOS="2166" WIDTH="88" HEIGHT="88">
+          <TextLine ID="P49_TL00022" HPOS="1468" VPOS="2178" WIDTH="64" HEIGHT="64">
+            <String ID="P49_S00198" HPOS="1468" VPOS="2178" WIDTH="64" HEIGHT="64" STYLEREFS="StyleId-1" CONTENT="★" WC="0.52" CC="4" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="P49_TB00003" HPOS="249" VPOS="2400" WIDTH="2517" HEIGHT="2230">
+          <TextLine ID="P49_TL00023" HPOS="732" VPOS="2412" WIDTH="1540" HEIGHT="103">
+            <String ID="P49_S00199" HPOS="732" VPOS="2415" WIDTH="151" HEIGHT="78" STYLEREFS="StyleId-2" CONTENT="Mt." WC="0.613333344" CC="334" />
+            <SP ID="P49_SP00177" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00200" HPOS="969" VPOS="2413" WIDTH="420" HEIGHT="79" STYLEREFS="StyleId-2" CONTENT="Lebanon" WC="0.5914286" CC="0362744" />
+            <SP ID="P49_SP00178" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00201" HPOS="1467" VPOS="2412" WIDTH="355" HEIGHT="81" STYLEREFS="StyleId-2" CONTENT="Annual" WC="0.651666641" CC="300853" />
+            <SP ID="P49_SP00179" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00202" HPOS="1906" VPOS="2412" WIDTH="366" HEIGHT="103" STYLEREFS="StyleId-2" CONTENT="Singing" WC="0.491428584" CC="4646075" />
+          </TextLine>
+          <TextLine ID="P49_TL00024" HPOS="1293" VPOS="2572" WIDTH="421" HEIGHT="55">
+            <String ID="P49_S00203" HPOS="1293" VPOS="2572" WIDTH="154" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="June" WC="0.8975" CC="0400" />
+            <SP ID="P49_SP00180" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00204" HPOS="1476" VPOS="2572" WIDTH="78" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="22," WC="0.93" CC="002" />
+            <SP ID="P49_SP00181" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00205" HPOS="1588" VPOS="2572" WIDTH="126" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="1958" WC="1" CC="0000" />
+          </TextLine>
+          <TextLine ID="P49_TL00025" HPOS="393" VPOS="2695" WIDTH="2329" HEIGHT="58">
+            <String ID="P49_S00206" HPOS="393" VPOS="2701" WIDTH="195" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="House" WC="0.936" CC="10100" />
+            <SP ID="P49_SP00182" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00207" HPOS="618" VPOS="2698" WIDTH="187" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="called" WC="1" CC="000000" />
+            <SP ID="P49_SP00183" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00208" HPOS="834" VPOS="2700" WIDTH="58" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="to" WC="1" CC="00" />
+            <SP ID="P49_SP00184" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00209" HPOS="922" VPOS="2698" WIDTH="172" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="order" WC="0.87" CC="02004" />
+            <SP ID="P49_SP00185" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00210" HPOS="1122" VPOS="2697" WIDTH="79" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="by" WC="0.665" CC="60" />
+            <SP ID="P49_SP00186" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00211" HPOS="1230" VPOS="2697" WIDTH="58" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="T." WC="1" CC="00" />
+            <SP ID="P49_SP00187" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00212" HPOS="1318" VPOS="2698" WIDTH="61" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="L." WC="0.615" CC="61" />
+            <SP ID="P49_SP00188" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00213" HPOS="1410" VPOS="2697" WIDTH="207" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="White," WC="1" CC="000000" />
+            <SP ID="P49_SP00189" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00214" HPOS="1648" VPOS="2695" WIDTH="339" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Chairman;" WC="0.9088889" CC="000020005" />
+            <SP ID="P49_SP00190" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00215" HPOS="2017" VPOS="2697" WIDTH="222" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Prayer" WC="0.913333356" CC="301000" />
+            <SP ID="P49_SP00191" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00216" HPOS="2266" VPOS="2695" WIDTH="79" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="by" WC="0.695" CC="60" />
+            <SP ID="P49_SP00192" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00217" HPOS="2373" VPOS="2697" WIDTH="51" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="J." WC="1" CC="00" />
+            <SP ID="P49_SP00193" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00218" HPOS="2452" VPOS="2697" WIDTH="76" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="M." WC="1" CC="00" />
+            <SP ID="P49_SP00194" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00219" HPOS="2557" VPOS="2695" WIDTH="165" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Bobo." WC="0.926" CC="30000" />
+          </TextLine>
+          <TextLine ID="P49_TL00026" HPOS="261" VPOS="2772" WIDTH="2463" HEIGHT="61">
+            <String ID="P49_S00220" HPOS="261" VPOS="2776" WIDTH="121" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="The" WC="1" CC="000" />
+            <SP ID="P49_SP00195" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00221" HPOS="414" VPOS="2773" WIDTH="303" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="following" WC="0.8755556" CC="600500000" />
+            <SP ID="P49_SP00196" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00222" HPOS="748" VPOS="2773" WIDTH="238" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="officers" WC="0.85375" CC="05300020" />
+            <SP ID="P49_SP00197" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00223" HPOS="1015" VPOS="2787" WIDTH="157" HEIGHT="46" STYLEREFS="StyleId-0" CONTENT="were" WC="0.92" CC="0030" />
+            <SP ID="P49_SP00198" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00224" HPOS="1204" VPOS="2773" WIDTH="223" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="elected" WC="0.9042857" CC="0000600" />
+            <SP ID="P49_SP00199" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00225" HPOS="1459" VPOS="2772" WIDTH="115" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="and" WC="0.83" CC="500" />
+            <SP ID="P49_SP00200" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00226" HPOS="1605" VPOS="2772" WIDTH="333" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="appointed," WC="0.899" CC="6000004000" />
+            <SP ID="P49_SP00201" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00227" HPOS="1971" VPOS="2772" WIDTH="61" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="T." WC="0.58" CC="62" />
+            <SP ID="P49_SP00202" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00228" HPOS="2064" VPOS="2773" WIDTH="63" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="L." WC="0.605" CC="70" />
+            <SP ID="P49_SP00203" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00229" HPOS="2158" VPOS="2773" WIDTH="208" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="White," WC="0.935" CC="000300" />
+            <SP ID="P49_SP00204" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00230" HPOS="2401" VPOS="2772" WIDTH="322" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Chairman;" WC="0.853333354" CC="001040106" />
+          </TextLine>
+          <TextLine ID="P49_TL00027" HPOS="261" VPOS="2847" WIDTH="2464" HEIGHT="61">
+            <String ID="P49_S00231" HPOS="261" VPOS="2853" WIDTH="187" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Lloyd" WC="1" CC="00000" />
+            <SP ID="P49_SP00205" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00232" HPOS="487" VPOS="2853" WIDTH="193" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Wood," WC="1" CC="00000" />
+            <SP ID="P49_SP00206" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00233" HPOS="718" VPOS="2850" WIDTH="142" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Vice" WC="0.9075" CC="3000" />
+            <SP ID="P49_SP00207" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00234" HPOS="903" VPOS="2850" WIDTH="334" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Chairman;" WC="0.9222222" CC="300020100" />
+            <SP ID="P49_SP00208" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00235" HPOS="1284" VPOS="2848" WIDTH="115" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="and" WC="1" CC="000" />
+            <SP ID="P49_SP00209" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00236" HPOS="1438" VPOS="2848" WIDTH="51" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="J." WC="0.885" CC="02" />
+            <SP ID="P49_SP00210" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00237" HPOS="1531" VPOS="2850" WIDTH="69" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="H." WC="0.9" CC="20" />
+            <SP ID="P49_SP00211" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00238" HPOS="1641" VPOS="2847" WIDTH="316" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Ballinger," WC="0.886" CC="6000000050" />
+            <SP ID="P49_SP00212" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00239" HPOS="2004" VPOS="2850" WIDTH="327" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Secretary." WC="0.917" CC="0004000003" />
+            <SP ID="P49_SP00213" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00240" HPOS="2406" VPOS="2850" WIDTH="319" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Arranging" WC="0.89" CC="000000009" />
+          </TextLine>
+          <TextLine ID="P49_TL00028" HPOS="277" VPOS="2923" WIDTH="2463" HEIGHT="60">
+            <String ID="P49_S00241" HPOS="277" VPOS="2928" WIDTH="363" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Committee," WC="0.95" CC="4000000000" />
+            <SP ID="P49_SP00214" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00242" HPOS="682" VPOS="2928" WIDTH="67" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="D." WC="1" CC="00" />
+            <SP ID="P49_SP00215" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00243" HPOS="790" VPOS="2926" WIDTH="61" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="T." WC="1" CC="00" />
+            <SP ID="P49_SP00216" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00244" HPOS="895" VPOS="2925" WIDTH="205" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="White," WC="1" CC="000000" />
+            <SP ID="P49_SP00217" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00245" HPOS="1144" VPOS="2925" WIDTH="51" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="J." WC="1" CC="00" />
+            <SP ID="P49_SP00218" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00246" HPOS="1239" VPOS="2926" WIDTH="69" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="H." WC="0.65" CC="42" />
+            <SP ID="P49_SP00219" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00247" HPOS="1351" VPOS="2923" WIDTH="300" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Ballinger" WC="0.8488889" CC="024000006" />
+            <SP ID="P49_SP00220" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00248" HPOS="1695" VPOS="2926" WIDTH="112" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="and" WC="0.92" CC="200" />
+            <SP ID="P49_SP00221" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00249" HPOS="1851" VPOS="2925" WIDTH="51" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="J." WC="1" CC="00" />
+            <SP ID="P49_SP00222" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00250" HPOS="1945" VPOS="2925" WIDTH="67" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="V." WC="0.925" CC="01" />
+            <SP ID="P49_SP00223" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00251" HPOS="2058" VPOS="2926" WIDTH="208" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="White." WC="0.946666658" CC="000003" />
+            <SP ID="P49_SP00224" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00252" HPOS="2344" VPOS="2926" WIDTH="153" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="First" WC="0.784" CC="50500" />
+            <SP ID="P49_SP00225" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00253" HPOS="2536" VPOS="2925" WIDTH="204" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="leader," WC="0.99" CC="0000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00029" HPOS="279" VPOS="3001" WIDTH="2458" HEIGHT="61">
+            <String ID="P49_S00254" HPOS="279" VPOS="3003" WIDTH="234" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Charlie" WC="0.947142839" CC="0003000" />
+            <SP ID="P49_SP00226" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00255" HPOS="544" VPOS="3003" WIDTH="282" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Clement," WC="1" CC="00000000" />
+            <SP ID="P49_SP00227" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00256" HPOS="858" VPOS="3001" WIDTH="213" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Johnie" WC="1" CC="000000" />
+            <SP ID="P49_SP00228" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00257" HPOS="1102" VPOS="3001" WIDTH="280" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Humber;" WC="0.8357143" CC="0004060" />
+            <SP ID="P49_SP00229" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00258" HPOS="1419" VPOS="3001" WIDTH="283" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Newman" WC="0.9583333" CC="000020" />
+            <SP ID="P49_SP00230" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00259" HPOS="1734" VPOS="3001" WIDTH="225" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Norris;" WC="0.818571448" CC="1024004" />
+            <SP ID="P49_SP00231" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00260" HPOS="1992" VPOS="3001" WIDTH="141" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.9075" CC="0300" />
+            <SP ID="P49_SP00232" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00261" HPOS="2163" VPOS="3003" WIDTH="52" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="J." WC="1" CC="00" />
+            <SP ID="P49_SP00233" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00262" HPOS="2245" VPOS="3003" WIDTH="67" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="V." WC="1" CC="00" />
+            <SP ID="P49_SP00234" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00263" HPOS="2344" VPOS="3003" WIDTH="210" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="White;" WC="0.858333349" CC="002005" />
+            <SP ID="P49_SP00235" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00264" HPOS="2589" VPOS="3003" WIDTH="58" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="C." WC="1" CC="00" />
+            <SP ID="P49_SP00236" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00265" HPOS="2676" VPOS="3003" WIDTH="61" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="H." WC="0.69" CC="60" />
+          </TextLine>
+          <TextLine ID="P49_TL00030" HPOS="276" VPOS="3076" WIDTH="1872" HEIGHT="60">
+            <String ID="P49_S00266" HPOS="276" VPOS="3079" WIDTH="222" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Yancy;" WC="0.956666648" CC="010001" />
+            <SP ID="P49_SP00237" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00267" HPOS="529" VPOS="3079" WIDTH="136" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.89" CC="0400" />
+            <SP ID="P49_SP00238" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00268" HPOS="696" VPOS="3079" WIDTH="66" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="G." WC="1" CC="00" />
+            <SP ID="P49_SP00239" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00269" HPOS="790" VPOS="3078" WIDTH="60" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="E." WC="0.845" CC="30" />
+            <SP ID="P49_SP00240" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00270" HPOS="879" VPOS="3076" WIDTH="270" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Howton;" WC="0.997142851" CC="0000000" />
+            <SP ID="P49_SP00241" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00271" HPOS="1180" VPOS="3076" WIDTH="49" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="J." WC="1" CC="00" />
+            <SP ID="P49_SP00242" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00272" HPOS="1260" VPOS="3078" WIDTH="60" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="L." WC="1" CC="00" />
+            <SP ID="P49_SP00243" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00273" HPOS="1348" VPOS="3076" WIDTH="315" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Ballinger," WC="0.907" CC="3100000040" />
+            <SP ID="P49_SP00244" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00274" HPOS="1692" VPOS="3078" WIDTH="52" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="J." WC="0.81" CC="03" />
+            <SP ID="P49_SP00245" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00275" HPOS="1771" VPOS="3078" WIDTH="66" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="R." WC="0.635" CC="60" />
+            <SP ID="P49_SP00246" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00276" HPOS="1866" VPOS="3078" WIDTH="282" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Humber." WC="0.7728571" CC="5005050" />
+          </TextLine>
+          <TextLine ID="P49_TL00031" HPOS="408" VPOS="3169" WIDTH="535" HEIGHT="51">
+            <String ID="P49_S00277" HPOS="408" VPOS="3171" WIDTH="139" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Rest" WC="1" CC="0000" />
+            <SP ID="P49_SP00247" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00278" HPOS="582" VPOS="3172" WIDTH="58" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="10" WC="0.98" CC="00" />
+            <SP ID="P49_SP00248" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00279" HPOS="672" VPOS="3169" WIDTH="271" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="Minutes." WC="0.9375" CC="05000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00032" HPOS="403" VPOS="3261" WIDTH="2332" HEIGHT="64">
+            <String ID="P49_S00280" HPOS="403" VPOS="3264" WIDTH="202" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.9533333" CC="002000" />
+            <SP ID="P49_SP00249" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00281" HPOS="640" VPOS="3262" WIDTH="60" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="to" WC="1" CC="00" />
+            <SP ID="P49_SP00250" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00282" HPOS="738" VPOS="3262" WIDTH="171" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="order" WC="0.964" CC="01000" />
+            <SP ID="P49_SP00251" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00283" HPOS="945" VPOS="3261" WIDTH="78" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="by" WC="1" CC="00" />
+            <SP ID="P49_SP00252" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00284" HPOS="1059" VPOS="3261" WIDTH="187" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Lloyd" WC="0.886" CC="50000" />
+            <SP ID="P49_SP00253" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00285" HPOS="1282" VPOS="3261" WIDTH="199" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Wood;" WC="0.906" CC="00004" />
+            <SP ID="P49_SP00254" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00286" HPOS="1522" VPOS="3262" WIDTH="268" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Leaders," WC="0.95875" CC="00000201" />
+            <SP ID="P49_SP00255" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00287" HPOS="1828" VPOS="3264" WIDTH="132" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Bud" WC="0.873333335" CC="300" />
+            <SP ID="P49_SP00256" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00288" HPOS="1995" VPOS="3264" WIDTH="156" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="May," WC="0.8825" CC="0400" />
+            <SP ID="P49_SP00257" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00289" HPOS="2190" VPOS="3265" WIDTH="61" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="T." WC="0.915" CC="01" />
+            <SP ID="P49_SP00258" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00290" HPOS="2289" VPOS="3267" WIDTH="61" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="L." WC="1" CC="00" />
+            <SP ID="P49_SP00259" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00291" HPOS="2389" VPOS="3267" WIDTH="180" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Pugh," WC="0.688" CC="50900" />
+            <SP ID="P49_SP00260" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00292" HPOS="2607" VPOS="3267" WIDTH="129" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.835" CC="0204" />
+          </TextLine>
+          <TextLine ID="P49_TL00033" HPOS="273" VPOS="3336" WIDTH="2464" HEIGHT="64">
+            <String ID="P49_S00293" HPOS="273" VPOS="3342" WIDTH="153" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="Seay" WC="0.85" CC="0050" />
+            <SP ID="P49_SP00261" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00294" HPOS="459" VPOS="3339" WIDTH="247" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Freddie" WC="0.9285714" CC="2000020" />
+            <SP ID="P49_SP00262" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00295" HPOS="739" VPOS="3337" WIDTH="205" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="White," WC="0.988333344" CC="000000" />
+            <SP ID="P49_SP00263" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00296" HPOS="979" VPOS="3337" WIDTH="138" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.84" CC="0600" />
+            <SP ID="P49_SP00264" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00297" HPOS="1153" VPOS="3336" WIDTH="186" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Floyd" WC="0.87" CC="06000" />
+            <SP ID="P49_SP00265" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00298" HPOS="1372" VPOS="3337" WIDTH="195" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Davis," WC="0.87" CC="000403" />
+            <SP ID="P49_SP00266" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00299" HPOS="1603" VPOS="3339" WIDTH="139" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.815" CC="0501" />
+            <SP ID="P49_SP00267" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00300" HPOS="1779" VPOS="3339" WIDTH="145" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Tom" WC="0.9266667" CC="002" />
+            <SP ID="P49_SP00268" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00301" HPOS="1957" VPOS="3342" WIDTH="247" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Harper," WC="0.86" CC="0000063" />
+            <SP ID="P49_SP00269" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00302" HPOS="2241" VPOS="3343" WIDTH="163" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Leon" WC="0.765" CC="0009" />
+            <SP ID="P49_SP00270" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00303" HPOS="2436" VPOS="3343" WIDTH="301" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Ballinger," WC="0.82" CC="5056000010" />
+          </TextLine>
+          <TextLine ID="P49_TL00034" HPOS="273" VPOS="3414" WIDTH="496" HEIGHT="51">
+            <String ID="P49_S00304" HPOS="273" VPOS="3417" WIDTH="181" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Jonas" WC="1" CC="00000" />
+            <SP ID="P49_SP00271" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00305" HPOS="484" VPOS="3414" WIDTH="285" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="Sudduth." WC="0.98375" CC="01000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00035" HPOS="402" VPOS="3505" WIDTH="531" HEIGHT="51">
+            <String ID="P49_S00306" HPOS="402" VPOS="3507" WIDTH="139" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Rest" WC="0.8175" CC="7000" />
+            <SP ID="P49_SP00272" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00307" HPOS="574" VPOS="3508" WIDTH="60" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="10" WC="0.835" CC="03" />
+            <SP ID="P49_SP00273" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00308" HPOS="663" VPOS="3505" WIDTH="270" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="Minutes." WC="0.91" CC="03030000" />
+          </TextLine>
+          <TextLine ID="P49_TL00036" HPOS="406" VPOS="3597" WIDTH="2332" HEIGHT="70">
+            <String ID="P49_S00309" HPOS="406" VPOS="3600" WIDTH="201" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.8883333" CC="006000" />
+            <SP ID="P49_SP00274" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00310" HPOS="636" VPOS="3598" WIDTH="58" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="to" WC="1" CC="00" />
+            <SP ID="P49_SP00275" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00311" HPOS="724" VPOS="3598" WIDTH="171" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="order" WC="0.832" CC="04004" />
+            <SP ID="P49_SP00276" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00312" HPOS="922" VPOS="3597" WIDTH="78" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="by" WC="0.715" CC="50" />
+            <SP ID="P49_SP00277" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00313" HPOS="1029" VPOS="3598" WIDTH="66" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="D." WC="0.915" CC="01" />
+            <SP ID="P49_SP00278" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00314" HPOS="1125" VPOS="3598" WIDTH="60" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="T." WC="0.885" CC="02" />
+            <SP ID="P49_SP00279" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00315" HPOS="1213" VPOS="3598" WIDTH="207" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="White," WC="0.96" CC="001000" />
+            <SP ID="P49_SP00280" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00316" HPOS="1449" VPOS="3600" WIDTH="51" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="J." WC="0.915" CC="01" />
+            <SP ID="P49_SP00281" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00317" HPOS="1527" VPOS="3601" WIDTH="84" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="W." WC="1" CC="00" />
+            <SP ID="P49_SP00282" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00318" HPOS="1641" VPOS="3601" WIDTH="226" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Woods," WC="1" CC="000000" />
+            <SP ID="P49_SP00283" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00319" HPOS="1896" VPOS="3604" WIDTH="145" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="Miss" WC="1" CC="0000" />
+            <SP ID="P49_SP00284" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00320" HPOS="2068" VPOS="3604" WIDTH="183" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="Elene" WC="0.928" CC="30000" />
+            <SP ID="P49_SP00285" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00321" HPOS="2280" VPOS="3607" WIDTH="301" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Aldridge," WC="0.8977778" CC="000410003" />
+            <SP ID="P49_SP00286" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00322" HPOS="2611" VPOS="3606" WIDTH="127" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Sam" WC="0.69" CC="026" />
+          </TextLine>
+          <TextLine ID="P49_TL00037" HPOS="273" VPOS="3673" WIDTH="2467" HEIGHT="70">
+            <String ID="P49_S00323" HPOS="273" VPOS="3675" WIDTH="279" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Webster," WC="0.765" CC="00504044" />
+            <SP ID="P49_SP00287" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00324" HPOS="582" VPOS="3675" WIDTH="136" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.89" CC="0400" />
+            <SP ID="P49_SP00288" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00325" HPOS="748" VPOS="3675" WIDTH="81" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="W." WC="1" CC="00" />
+            <SP ID="P49_SP00289" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00326" HPOS="861" VPOS="3673" WIDTH="235" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Barnes," WC="0.7828571" CC="6340000" />
+            <SP ID="P49_SP00290" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00327" HPOS="1126" VPOS="3675" WIDTH="78" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="M." WC="1" CC="00" />
+            <SP ID="P49_SP00291" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00328" HPOS="1234" VPOS="3675" WIDTH="61" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="L." WC="0.84" CC="30" />
+            <SP ID="P49_SP00292" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00329" HPOS="1327" VPOS="3675" WIDTH="360" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Livingston," WC="0.969090939" CC="10000000001" />
+            <SP ID="P49_SP00293" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00330" HPOS="1719" VPOS="3679" WIDTH="217" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Ruffus" WC="0.728333354" CC="505500" />
+            <SP ID="P49_SP00294" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00331" HPOS="1965" VPOS="3681" WIDTH="220" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Norris," WC="0.867142856" CC="0026000" />
+            <SP ID="P49_SP00295" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00332" HPOS="2217" VPOS="3685" WIDTH="129" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Roy" WC="1" CC="000" />
+            <SP ID="P49_SP00296" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00333" HPOS="2374" VPOS="3685" WIDTH="184" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Mays," WC="0.98" CC="00001" />
+            <SP ID="P49_SP00297" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00334" HPOS="2589" VPOS="3685" WIDTH="67" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="D." WC="0.785" CC="04" />
+            <SP ID="P49_SP00298" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00335" HPOS="2683" VPOS="3684" WIDTH="57" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="L." WC="0.695" CC="32" />
+          </TextLine>
+          <TextLine ID="P49_TL00038" HPOS="274" VPOS="3751" WIDTH="205" HEIGHT="49">
+            <String ID="P49_S00336" HPOS="274" VPOS="3751" WIDTH="205" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="White." WC="0.901666641" CC="050000" />
+          </TextLine>
+          <TextLine ID="P49_TL00039" HPOS="409" VPOS="3841" WIDTH="660" HEIGHT="51">
+            <String ID="P49_S00337" HPOS="409" VPOS="3844" WIDTH="124" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="One" WC="0.8666667" CC="400" />
+            <SP ID="P49_SP00299" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00338" HPOS="567" VPOS="3843" WIDTH="148" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="hour" WC="0.9475" CC="0020" />
+            <SP ID="P49_SP00300" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00339" HPOS="750" VPOS="3841" WIDTH="93" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="for" WC="0.6666667" CC="603" />
+            <SP ID="P49_SP00301" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00340" HPOS="874" VPOS="3841" WIDTH="195" HEIGHT="51" STYLEREFS="StyleId-0" CONTENT="lunch." WC="1" CC="000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00040" HPOS="406" VPOS="3934" WIDTH="2340" HEIGHT="73">
+            <String ID="P49_S00341" HPOS="406" VPOS="3934" WIDTH="202" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.865" CC="022300" />
+            <SP ID="P49_SP00302" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00342" HPOS="651" VPOS="3934" WIDTH="60" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="to" WC="0.755" CC="40" />
+            <SP ID="P49_SP00303" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00343" HPOS="754" VPOS="3934" WIDTH="171" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="order" WC="0.886" CC="02003" />
+            <SP ID="P49_SP00304" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00344" HPOS="967" VPOS="3934" WIDTH="79" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="by" WC="0.725" CC="50" />
+            <SP ID="P49_SP00305" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00345" HPOS="1090" VPOS="3936" WIDTH="51" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="J." WC="0.925" CC="01" />
+            <SP ID="P49_SP00306" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00346" HPOS="1185" VPOS="3936" WIDTH="66" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="V." WC="1" CC="00" />
+            <SP ID="P49_SP00307" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00347" HPOS="1296" VPOS="3939" WIDTH="205" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="White," WC="0.821666658" CC="052002" />
+            <SP ID="P49_SP00308" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00348" HPOS="1548" VPOS="3940" WIDTH="187" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Floyd" WC="0.862" CC="51000" />
+            <SP ID="P49_SP00309" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00349" HPOS="1774" VPOS="3942" WIDTH="198" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Davis," WC="0.831666648" CC="121202" />
+            <SP ID="P49_SP00310" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00350" HPOS="2017" VPOS="3946" WIDTH="199" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Elmer" WC="0.892" CC="50000" />
+            <SP ID="P49_SP00311" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00351" HPOS="2265" VPOS="3949" WIDTH="282" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Conwell," WC="0.89" CC="30000500" />
+            <SP ID="P49_SP00312" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00352" HPOS="2593" VPOS="3948" WIDTH="153" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Estes" WC="1" CC="00000" />
+          </TextLine>
+          <TextLine ID="P49_TL00041" HPOS="280" VPOS="4009" WIDTH="1639" HEIGHT="66">
+            <String ID="P49_S00353" HPOS="280" VPOS="4009" WIDTH="268" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Jackson," WC="0.9575" CC="00000003" />
+            <SP ID="P49_SP00313" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00354" HPOS="577" VPOS="4009" WIDTH="136" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Mrs." WC="0.89" CC="0400" />
+            <SP ID="P49_SP00314" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00355" HPOS="745" VPOS="4009" WIDTH="298" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Seymour," WC="0.99" CC="00000000" />
+            <SP ID="P49_SP00315" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00356" HPOS="1074" VPOS="4011" WIDTH="142" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Tom" WC="1" CC="000" />
+            <SP ID="P49_SP00316" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00357" HPOS="1243" VPOS="4014" WIDTH="244" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Harper," WC="0.7442857" CC="4150033" />
+            <SP ID="P49_SP00317" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00358" HPOS="1516" VPOS="4015" WIDTH="165" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Tony" WC="0.7825" CC="8000" />
+            <SP ID="P49_SP00318" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00359" HPOS="1711" VPOS="4018" WIDTH="208" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Smith." WC="0.995" CC="000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00042" HPOS="411" VPOS="4101" WIDTH="538" HEIGHT="49">
+            <String ID="P49_S00360" HPOS="411" VPOS="4102" WIDTH="141" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="Rest" WC="1" CC="0000" />
+            <SP ID="P49_SP00319" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00361" HPOS="586" VPOS="4102" WIDTH="60" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="10" WC="1" CC="00" />
+            <SP ID="P49_SP00320" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00362" HPOS="678" VPOS="4101" WIDTH="271" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Minutes." WC="1" CC="00000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00043" HPOS="415" VPOS="4194" WIDTH="2338" HEIGHT="78">
+            <String ID="P49_S00363" HPOS="415" VPOS="4194" WIDTH="204" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="Called" WC="0.896666646" CC="000600" />
+            <SP ID="P49_SP00321" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00364" HPOS="645" VPOS="4195" WIDTH="58" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="to" WC="1" CC="00" />
+            <SP ID="P49_SP00322" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00365" HPOS="732" VPOS="4195" WIDTH="171" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="order" WC="0.868" CC="01004" />
+            <SP ID="P49_SP00323" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00366" HPOS="930" VPOS="4195" WIDTH="78" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="by" WC="0.755" CC="40" />
+            <SP ID="P49_SP00324" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00367" HPOS="1033" VPOS="4197" WIDTH="67" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="D." WC="1" CC="00" />
+            <SP ID="P49_SP00325" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00368" HPOS="1128" VPOS="4198" WIDTH="78" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="M." WC="0.965" CC="00" />
+            <SP ID="P49_SP00326" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00369" HPOS="1233" VPOS="4200" WIDTH="298" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Aldridge," WC="0.92" CC="000400003" />
+            <SP ID="P49_SP00327" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00370" HPOS="1561" VPOS="4203" WIDTH="67" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="G." WC="0.61" CC="52" />
+            <SP ID="P49_SP00328" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00371" HPOS="1657" VPOS="4204" WIDTH="60" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="E." WC="1" CC="00" />
+            <SP ID="P49_SP00329" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00372" HPOS="1746" VPOS="4206" WIDTH="270" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="Howton," WC="0.817142844" CC="0205021" />
+            <SP ID="P49_SP00330" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00373" HPOS="2044" VPOS="4210" WIDTH="201" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="Brand" WC="0.966" CC="10000" />
+            <SP ID="P49_SP00331" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00374" HPOS="2271" VPOS="4210" WIDTH="276" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Jackson," WC="1" CC="00000000" />
+            <SP ID="P49_SP00332" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00375" HPOS="2575" VPOS="4212" WIDTH="178" HEIGHT="60" STYLEREFS="StyleId-0" CONTENT="Lloyd" WC="0.762" CC="05006" />
+          </TextLine>
+          <TextLine ID="P49_TL00044" HPOS="282" VPOS="4270" WIDTH="1104" HEIGHT="57">
+            <String ID="P49_S00376" HPOS="282" VPOS="4270" WIDTH="196" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="Wood," WC="0.992" CC="00000" />
+            <SP ID="P49_SP00333" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00377" HPOS="507" VPOS="4272" WIDTH="81" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="W." WC="0.915" CC="01" />
+            <SP ID="P49_SP00334" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00378" HPOS="616" VPOS="4270" WIDTH="63" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="R." WC="0.75" CC="50" />
+            <SP ID="P49_SP00335" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00379" HPOS="711" VPOS="4270" WIDTH="205" HEIGHT="57" STYLEREFS="StyleId-0" CONTENT="White," WC="0.9316667" CC="000004" />
+            <SP ID="P49_SP00336" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00380" HPOS="945" VPOS="4272" WIDTH="63" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="R." WC="1" CC="00" />
+            <SP ID="P49_SP00337" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00381" HPOS="1038" VPOS="4272" WIDTH="61" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="L." WC="1" CC="00" />
+            <SP ID="P49_SP00338" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00382" HPOS="1128" VPOS="4273" WIDTH="258" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="McCool." WC="1" CC="0000000" />
+          </TextLine>
+          <TextLine ID="P49_TL00045" HPOS="1167" VPOS="4365" WIDTH="793" HEIGHT="61">
+            <String ID="P49_S00383" HPOS="1167" VPOS="4365" WIDTH="61" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="T." WC="1" CC="00" />
+            <SP ID="P49_SP00339" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00384" HPOS="1257" VPOS="4368" WIDTH="63" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="L." WC="0.855" CC="02" />
+            <SP ID="P49_SP00340" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00385" HPOS="1348" VPOS="4368" WIDTH="261" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="WHITE," WC="0.9266667" CC="000013" />
+            <SP ID="P49_SP00341" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00386" HPOS="1641" VPOS="4371" WIDTH="319" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Chairman" WC="0.73" CC="00024059" />
+          </TextLine>
+          <TextLine ID="P49_TL00046" HPOS="1165" VPOS="4458" WIDTH="1048" HEIGHT="63">
+            <String ID="P49_S00387" HPOS="1165" VPOS="4458" WIDTH="255" HEIGHT="52" STYLEREFS="StyleId-0" CONTENT="LLOYD" WC="0.856" CC="70000" />
+            <SP ID="P49_SP00342" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00388" HPOS="1449" VPOS="4462" WIDTH="244" HEIGHT="58" STYLEREFS="StyleId-0" CONTENT="WOOD," WC="1" CC="00000" />
+            <SP ID="P49_SP00343" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00389" HPOS="1720" VPOS="4465" WIDTH="144" HEIGHT="55" STYLEREFS="StyleId-0" CONTENT="Vice" WC="0.9625" CC="1000" />
+            <SP ID="P49_SP00344" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00390" HPOS="1894" VPOS="4467" WIDTH="319" HEIGHT="54" STYLEREFS="StyleId-0" CONTENT="Chairman" WC="0.86375" CC="00205003" />
+          </TextLine>
+          <TextLine ID="P49_TL00047" HPOS="1159" VPOS="4551" WIDTH="978" HEIGHT="67">
+            <String ID="P49_S00391" HPOS="1159" VPOS="4551" WIDTH="51" HEIGHT="49" STYLEREFS="StyleId-0" CONTENT="J." WC="1" CC="00" />
+            <SP ID="P49_SP00345" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00392" HPOS="1242" VPOS="4552" WIDTH="69" HEIGHT="48" STYLEREFS="StyleId-0" CONTENT="H." WC="0.935" CC="00" />
+            <SP ID="P49_SP00346" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00393" HPOS="1342" VPOS="4554" WIDTH="451" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="BALLINGER," WC="0.918" CC="0020003003" />
+            <SP ID="P49_SP00347" WIDTH="0" HPOS="0" VPOS="0" />
+            <String ID="P49_S00394" HPOS="1827" VPOS="4557" WIDTH="310" HEIGHT="61" STYLEREFS="StyleId-0" CONTENT="Secretary" WC="0.9077778" CC="000100060" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
