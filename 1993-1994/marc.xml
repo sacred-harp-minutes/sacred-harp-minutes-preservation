@@ -1,0 +1,128 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>01672cas a2200385Ia 4500</leader>
+    <controlfield tag="001">990014864530302486</controlfield>
+    <controlfield tag="005">20160111213212.0</controlfield>
+    <controlfield tag="008">910926d19uu1995aluar         1    0eng  </controlfield>
+    <datafield ind1="9" ind2=" " tag="035">
+      <subfield code="a">u750156</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">ocm23279219</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">(DOBI)31712895</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">ABF</subfield>
+      <subfield code="c">ABF</subfield>
+      <subfield code="d">EMT</subfield>
+      <subfield code="d">UtOrBLW</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="049">
+      <subfield code="a">EMTM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="090">
+      <subfield code="a">ML3188</subfield>
+      <subfield code="b">.S3</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="111">
+      <subfield code="a">Sacred Harp Singings.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Directory and minutes of annual sacred harp singings ... :</subfield>
+      <subfield code="b">Alabama, Florida, Georgia, Tennessee, and Mississippi.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Alabama, Georgia, Mississippi, Florida and Tennessee annual sacred harp singings</subfield>
+      <subfield code="f">1961</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Directory and minutes of annual sacred harp singings ... throughout the United States</subfield>
+      <subfield code="f">1985-1988&gt;</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="246">
+      <subfield code="a">Directory and minutes of sacred harp singings ... names and addresses of sacred harp singers throughout the USA</subfield>
+      <subfield code="f">&lt;1991-1995</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="246">
+      <subfield code="a">Alabama, Florida, Georgia, Tennessee, and Mississippi annual sacred singings</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="264">
+      <subfield code="a">[Birmingham, Ala.?] :</subfield>
+      <subfield code="b">[publisher not identified],</subfield>
+      <subfield code="c">[19--]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">volumes ;</subfield>
+      <subfield code="c">22 cm</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="310">
+      <subfield code="a">Annual.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="336">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="337">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="338">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Cover title.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Shape-note singing</subfield>
+      <subfield code="z">Southern States</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Church music</subfield>
+      <subfield code="z">Southern States</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="785">
+      <subfield code="t">Sacred harp singings ... minutes ... directory and names and address of sacred harp singers.</subfield>
+      <subfield code="w">(OCoLC)57206491</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="910">
+      <subfield code="a">RDA ENRICHED</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="910">
+      <subfield code="a">MARS</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="945">
+      <subfield code="a">9DT</subfield>
+      <subfield code="2">19940531</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="949">
+      <subfield code="a">000015122910</subfield>
+      <subfield code="b">EMT</subfield>
+      <subfield code="c">stak</subfield>
+      <subfield code="d">ML3188 .S3</subfield>
+      <subfield code="t">b</subfield>
+      <subfield code="n">1976-1977</subfield>
+      <subfield code="x">Gift of G. Fountain, 1989</subfield>
+      <subfield code="z">ae</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="999">
+      <subfield code="a">ML3188 .S3 1993-1994</subfield>
+      <subfield code="b">unavailable</subfield>
+      <subfield code="i">300000206670</subfield>
+      <subfield code="l">REF</subfield>
+      <subfield code="m">THEO</subfield>
+      <subfield code="t">BOOK</subfield>
+      <subfield code="w">0</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="z">(GEU)Aleph001486453</subfield>
+    </datafield>
+  </record>
+</collection>
